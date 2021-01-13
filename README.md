@@ -17,8 +17,12 @@ Jupyter Notebook
 Keras
 
 Tensorflow
+
 Numpy
+
 Matplotlib
+
+Cifar-10
 
 
 ### Installation
@@ -28,6 +32,13 @@ Installer Anaconda
 Installer vscode
 
 Dans Anaconda, creer un environnement, puis installer Keras, Numpy et Matplotlib dedans
+
+Dans le projet, créer le dossier data et dans les dossier de train et test, mettre les dossiers d'images provenant de Cifar-10 suivants :
+- apple
+- baby
+- bus
+- tiger
+
 
 
 ### Exécution
